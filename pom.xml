@@ -11,7 +11,7 @@
 	<groupId>com.manning</groupId>
 	<artifactId>readingListFull</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>readinglist</name>
+	<name>readingListFull</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
